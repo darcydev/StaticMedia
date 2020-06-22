@@ -1,0 +1,452 @@
+{
+  "type": "FeatureCollection",
+  "name": "MAJOR_SEAPORTS",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Hastings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16168896.997299999, -4624113.180100001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geelong Port"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16077107.843199998, -4594317.669599999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Melbourne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16134275.745099999, -4560140.682399999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Portland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15778382.101, -4628246.9545]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Burnie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16242645.2381, -5020050.0209]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Hobart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16401791.3017, -5293874.9611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Devonport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16293451.9855, -5039124.116]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Ashburton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12802409.358199999, -2473687.576699998]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Launceston (Bell Bay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16348684.4332, -5032341.183400001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Esperance Port"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13566744.4235, -4046458.546599999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fremantle Port"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12860549.2062, -3771860.9512]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barrow Island Port"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12822868.094999999, -2357974.7309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Derby"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13762306.1954, -1956163.2054000013]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Koolan Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13779360.3413, -1820424.3982999995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Onslow Port"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12814353.9395, -2468134.6695999987]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Thevenard Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12777373.298999999, -2427922.4431000017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Airlie Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12803234.256299999, -2402591.6229999997]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Varanus Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12847287.1677, -2318451.9076]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Walcott"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13044927.9971, -2343343.0694000013]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cape Preston Port"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12936003.879099999, -2371898.1154000014]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Cockatoo Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13754039.721299998, -1815654.2749]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wyndham Port"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14260149.7632, -1741250.1774999984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darwin Port"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14569542.3219, -1401626.3224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Kwinana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12886014.6372, -3793273.4941999987]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Bonython"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15337655.045199998, -3894140.9793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Lincoln"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15123586.277099997, -4125890.0236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Whyalla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15313582.3369, -3899528.4164]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Thevenard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14878237.8443, -3782473.351399999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Adelaide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15415913.6532, -4133682.464299999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Botany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16832620.2029, -4025042.9294999987]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Kembla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16798556.438699998, -4091682.4211999997]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Newcastle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16895738.354099996, -3884424.8858]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abbot Point Port"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16484524.1551, -2259175.8093000017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Hay Point And Dalrymple Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16619619.708099999, -2426480.1843000017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Gladstone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16839220.4468, -2733494.3768999986]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mackay Port"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16611934.3217, -2404642.015999999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Townsville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16345445.5908, -2184307.519099999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Brisbane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17052061.865999997, -3167751.2426999994]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Broome"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13604389.700599998, -2037975.1105999984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Hedland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13199755.2347, -2309983.9512]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Dampier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12991396.9479, -2351738.6871]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Geraldton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12756401.392499998, -3347022.8161000013]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Bunbury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12872790.372499999, -3937431.8746999986]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albany Port"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13125890.9893, -4168632.475900002]
+      }
+    }
+  ]
+}
