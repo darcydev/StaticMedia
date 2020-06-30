@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "name": "NSW Ports Locations",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Port Botany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.215439, -33.972157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Port Kembla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [150.899047, -34.471952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Cooks River Intermodal Terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.173395, -33.918453]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Enfield Intermodal Terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.071919, -33.894389]
+      }
+    }
+  ]
+}
