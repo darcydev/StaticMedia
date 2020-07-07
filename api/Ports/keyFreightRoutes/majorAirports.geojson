@@ -13,7 +13,7 @@
       "properties": { "Name": "Avalon Airport" },
       "geometry": {
         "type": "Point",
-        "coordinates": [144.472492, -38.038817, 0]
+        "coordinates": [144.472492, -38.038817]
       }
     },
     {
@@ -21,38 +21,38 @@
       "properties": { "Name": "Melbourne International Airport" },
       "geometry": {
         "type": "Point",
-        "coordinates": [144.842027, -37.665634, 0]
+        "coordinates": [144.842027, -37.665634]
       }
     },
     {
       "type": "Feature",
       "properties": { "Name": "Hobart International Airport" },
-      "geometry": { "type": "Point", "coordinates": [147.51001, -42.83667, 0] }
+      "geometry": { "type": "Point", "coordinates": [147.51001, -42.83667] }
     },
     {
       "type": "Feature",
       "properties": { "Name": "Launceston Airport" },
-      "geometry": { "type": "Point", "coordinates": [147.21501, -41.545, 0] }
+      "geometry": { "type": "Point", "coordinates": [147.21501, -41.545] }
     },
     {
       "type": "Feature",
       "properties": { "Name": "Perth Airport" },
       "geometry": {
         "type": "Point",
-        "coordinates": [115.950917, -31.933817, 0]
+        "coordinates": [115.950917, -31.933817]
       }
     },
     {
       "type": "Feature",
       "properties": { "Name": "Darwin International Airport" },
-      "geometry": { "type": "Point", "coordinates": [130.8672, -12.400967, 0] }
+      "geometry": { "type": "Point", "coordinates": [130.8672, -12.400967] }
     },
     {
       "type": "Feature",
       "properties": { "Name": "Adelaide Airport" },
       "geometry": {
         "type": "Point",
-        "coordinates": [138.517433, -34.934117, 0]
+        "coordinates": [138.517433, -34.934117]
       }
     },
     {
@@ -60,7 +60,7 @@
       "properties": { "Name": "Sydney International Airport" },
       "geometry": {
         "type": "Point",
-        "coordinates": [151.167233, -33.934183, 0]
+        "coordinates": [151.167233, -33.934183]
       }
     },
     {
@@ -68,7 +68,7 @@
       "properties": { "Name": "Newcastle Airport" },
       "geometry": {
         "type": "Point",
-        "coordinates": [151.839992, -32.804194, 0]
+        "coordinates": [151.839992, -32.804194]
       }
     },
     {
@@ -76,13 +76,13 @@
       "properties": { "Name": "Cairns Airport" },
       "geometry": {
         "type": "Point",
-        "coordinates": [145.754026, -16.876268, 0]
+        "coordinates": [145.754026, -16.876268]
       }
     },
     {
       "type": "Feature",
       "properties": { "Name": "Brisbane Airport" },
-      "geometry": { "type": "Point", "coordinates": [153.11765, -27.397984, 0] }
+      "geometry": { "type": "Point", "coordinates": [153.11765, -27.397984] }
     },
     {
       "type": "Feature",
@@ -94,18 +94,18 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [153.513292, -28.166156, 0]
+        "coordinates": [153.513292, -28.166156]
       }
     },
     {
       "type": "Feature",
       "properties": { "Name": "Charlton-Wellcamp" },
-      "geometry": { "type": "Point", "coordinates": [151.795, -27.55861, 0] }
+      "geometry": { "type": "Point", "coordinates": [151.795, -27.55861] }
     },
     {
       "type": "Feature",
       "properties": { "Name": "Canberra International Airport" },
-      "geometry": { "type": "Point", "coordinates": [149.19221, -35.304872, 0] }
+      "geometry": { "type": "Point", "coordinates": [149.19221, -35.304872] }
     }
   ]
 }
