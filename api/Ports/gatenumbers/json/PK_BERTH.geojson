@@ -66,7 +66,7 @@
         "UnloadingEquipment": "Bulk Shiploader, Luffing Crane",
         "OperatingHours": "24/7",
         "PotableWaterAvailable": null,
-        "AdditionalInformation": ["Potable water available."],
+        "AdditionalInformation": "Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
       },
       "geometry": {
@@ -100,7 +100,7 @@
         "UnloadingEquipment": "Bulk Shiploader, Luffing Crane",
         "OperatingHours": "24/7",
         "PotableWaterAvailable": null,
-        "AdditionalInformation": ["Potable water available."],
+        "AdditionalInformation": "Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
       },
       "geometry": {
@@ -134,7 +134,7 @@
         "UnloadingEquipment": "Bulk Shiploader, Luffing Crane",
         "OperatingHours": "24/7",
         "PotableWaterAvailable": null,
-        "AdditionalInformation": ["Potable water available."],
+        "AdditionalInformation": "Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
       },
       "geometry": {
@@ -168,7 +168,7 @@
         "UnloadingEquipment": "1. No. Dock Line",
         "OperatingHours": "24/7",
         "PotableWaterAvailable": null,
-        "AdditionalInformation": ["Potable water available.", "Vessel bunkering by pipeline."],
+        "AdditionalInformation": "Potable water available. Vessel bunkering by pipeline.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
       },
       "geometry": {
@@ -202,7 +202,7 @@
         "UnloadingEquipment": null,
         "OperatingHours": "24/7",
         "PotableWaterAvailable": null,
-        "AdditionalInformation": ["Potable water available."],
+        "AdditionalInformation": "Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
       },
       "geometry": {
@@ -236,7 +236,7 @@
         "UnloadingEquipment": "3 No. 140t Mobile Cranes",
         "OperatingHours": "24/7",
         "PotableWaterAvailable": null,
-        "AdditionalInformation": ["Potable water available."],
+        "AdditionalInformation": "Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
       },
       "geometry": {
@@ -270,7 +270,7 @@
         "UnloadingEquipment": "3 No. 140t Mobile Cranes",
         "OperatingHours": "24/7",
         "PotableWaterAvailable": null,
-        "AdditionalInformation": ["Potable water available."],
+        "AdditionalInformation": "Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
       },
       "geometry": {
@@ -304,7 +304,7 @@
         "UnloadingEquipment": "3 No. 140t Mobile Cranes",
         "OperatingHours": "24/7",
         "PotableWaterAvailable": null,
-        "AdditionalInformation": ["Potable water available."],
+        "AdditionalInformation": "Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
       },
       "geometry": {
@@ -338,7 +338,7 @@
         "UnloadingEquipment": false,
         "OperatingHours": "24/7",
         "PotableWaterAvailable": null,
-        "AdditionalInformation": ["Potable water available."],
+        "AdditionalInformation": "Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
       },
       "geometry": {
@@ -380,7 +380,7 @@
         "UnloadingEquipment": "2 No. Grain Shiploaders",
         "OperatingHours": "24/7",
         "PotableWaterAvailable": null,
-        "AdditionalInformation": ["Potable water available."],
+        "AdditionalInformation": "Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
       },
       "geometry": {
@@ -422,7 +422,7 @@
         "UnloadingEquipment": false,
         "OperatingHours": "24/7",
         "PotableWaterAvailable": null,
-        "AdditionalInformation": ["Potable water available.", "Vessel bunkering by pipeline."],
+        "AdditionalInformation": "Potable water available, Vessel bunkering by pipeline.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
       },
       "geometry": {
@@ -524,7 +524,7 @@
         "UnloadingEquipment": "Mobile Shore Cranes, Reach Stackers, Mobile Hoppers",
         "OperatingHours": "24/7",
         "PotableWaterAvailable": null,
-        "AdditionalInformation": ["Potable water available."],
+        "AdditionalInformation": "Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
       },
       "geometry": {
@@ -592,7 +592,7 @@
         "UnloadingEquipment": "2. No Rail Mounted Shiploaders",
         "OperatingHours": "24/7",
         "PotableWaterAvailable": null,
-        "AdditionalInformation": ["Vessel bunkering by pipeline."],
+        "AdditionalInformation": "Vessel bunkering by pipeline.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
       },
       "geometry": {
