@@ -11,6 +11,8 @@
       "properties": {
         "TextString": "BERTH 204",
         "Angle": 18.0,
+        "BerthManager": "Port Kembla Gateway",
+        "Commodities": "Dry Bulk, General Cargo",
         "ChannelMaintainedDepth": "15.5m",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.4m",
@@ -27,10 +29,8 @@
         "MooringEquipment": null,
         "TidalRange": "2m",
         "RailAccess": true,
-        "Commodities": "Dry Bulk, General Cargo",
         "UnloadingEquipment": "Bulk Shiploader, Luffing Crane",
         "OperatingHours": "24/7",
-        "BerthManager": "Port Kembla Gateway",
         "PotableWaterAvailable": null,
         "AdditionalInformation": ["Potable water available."],
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -45,6 +45,8 @@
       "properties": {
         "TextString": "BERTH 202",
         "Angle": 18.0,
+        "BerthManager": "Port Kembla Gateway",
+        "Commodities": "n/a",
         "ChannelMaintainedDepth": "15.5m",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.4m",
@@ -61,10 +63,8 @@
         "MooringEquipment": null,
         "TidalRange": "2m",
         "RailAccess": true,
-        "Commodities": "n/a",
         "UnloadingEquipment": "Bulk Shiploader, Luffing Crane",
         "OperatingHours": "24/7",
-        "BerthManager": "Port Kembla Gateway",
         "PotableWaterAvailable": null,
         "AdditionalInformation": ["Potable water available."],
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -79,6 +79,8 @@
       "properties": {
         "TextString": "BERTH 203",
         "Angle": 18.0,
+        "BerthManager": "Port Kembla Gateway",
+        "Commodities": "n/a",
         "ChannelMaintainedDepth": "15.5m",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.4m",
@@ -95,10 +97,8 @@
         "MooringEquipment": null,
         "TidalRange": "2m",
         "RailAccess": true,
-        "Commodities": "n/a",
         "UnloadingEquipment": "Bulk Shiploader, Luffing Crane",
         "OperatingHours": "24/7",
-        "BerthManager": "Port Kembla Gateway",
         "PotableWaterAvailable": null,
         "AdditionalInformation": ["Potable water available."],
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -113,6 +113,8 @@
       "properties": {
         "TextString": "BERTH 205",
         "Angle": 18.0,
+        "BerthManager": "Port Kembla Gateway",
+        "Commodities": "Dry Bulk, General Cargo",
         "ChannelMaintainedDepth": "15.5m",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.4m",
@@ -129,10 +131,8 @@
         "MooringEquipment": null,
         "TidalRange": "2m",
         "RailAccess": true,
-        "Commodities": "Dry Bulk, General Cargo",
         "UnloadingEquipment": "Bulk Shiploader, Luffing Crane",
         "OperatingHours": "24/7",
-        "BerthManager": "Port Kembla Gateway",
         "PotableWaterAvailable": null,
         "AdditionalInformation": ["Potable water available."],
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -147,6 +147,8 @@
       "properties": {
         "TextString": "BERTH 201",
         "Angle": 350.96804809600002,
+        "BerthManager": "NSW Ports",
+        "Commodities": "Bulk Liquids",
         "ChannelMaintainedDepth": "15.5m",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.4m",
@@ -163,10 +165,8 @@
         "MooringEquipment": null,
         "TidalRange": "2m",
         "RailAccess": false,
-        "Commodities": "Bulk Liquids",
         "UnloadingEquipment": "1. No. Dock Line",
         "OperatingHours": "24/7",
-        "BerthManager": "NSW Ports",
         "PotableWaterAvailable": null,
         "AdditionalInformation": ["Potable water available.", "Vessel bunkering by pipeline."],
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -181,6 +181,8 @@
       "properties": {
         "TextString": "BERTH 206",
         "Angle": 82.801345825200002,
+        "BerthManager": "NSW Ports",
+        "Commodities": "Bulk Liquids",
         "ChannelMaintainedDepth": "15.5m",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.4m",
@@ -197,10 +199,8 @@
         "MooringEquipment": null,
         "TidalRange": "2m",
         "RailAccess": true,
-        "Commodities": "Bulk Liquids",
         "UnloadingEquipment": null,
         "OperatingHours": "24/7",
-        "BerthManager": "NSW Ports",
         "PotableWaterAvailable": null,
         "AdditionalInformation": ["Potable water available."],
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -215,6 +215,8 @@
       "properties": {
         "TextString": "BERTH 105",
         "Angle": 341.71981811500001,
+        "BerthManager": "AAT",
+        "Commodities": "General Cargo, Automobile, Dry Bulk",
         "ChannelMaintainedDepth": "15.2mCD",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.1m",
@@ -231,10 +233,8 @@
         "MooringEquipment": null,
         "TidalRange": "2m",
         "RailAccess": "On Dock Rail",
-        "Commodities": "General Cargo, Automobile, Dry Bulk",
         "UnloadingEquipment": "3 No. 140t Mobile Cranes",
         "OperatingHours": "24/7",
-        "BerthManager": "AAT",
         "PotableWaterAvailable": null,
         "AdditionalInformation": ["Potable water available."],
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -249,6 +249,8 @@
       "properties": {
         "TextString": "BERTH 106",
         "Angle": 342.91458129900002,
+        "BerthManager": "AAT",
+        "Commodities": "General Cargo, Automobile, Dry Bulk",
         "ChannelMaintainedDepth": "15.2mCD",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.1m",
@@ -265,10 +267,8 @@
         "MooringEquipment": null,
         "TidalRange": "2m",
         "RailAccess": "On Dock Rail",
-        "Commodities": "General Cargo, Automobile, Dry Bulk",
         "UnloadingEquipment": "3 No. 140t Mobile Cranes",
         "OperatingHours": "24/7",
-        "BerthManager": "AAT",
         "PotableWaterAvailable": null,
         "AdditionalInformation": ["Potable water available."],
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -283,6 +283,8 @@
       "properties": {
         "TextString": "BERTH 107",
         "Angle": 92.404846191399997,
+        "BerthManager": "AAT",
+        "Commodities": "General Cargo, Automobile, Dry Bulk",
         "ChannelMaintainedDepth": "15.2mCD",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.1m",
@@ -299,10 +301,8 @@
         "MooringEquipment": null,
         "TidalRange": "2m",
         "RailAccess": "On Dock Rail",
-        "Commodities": "General Cargo, Automobile, Dry Bulk",
         "UnloadingEquipment": "3 No. 140t Mobile Cranes",
         "OperatingHours": "24/7",
-        "BerthManager": "AAT",
         "PotableWaterAvailable": null,
         "AdditionalInformation": ["Potable water available."],
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -317,6 +317,8 @@
       "properties": {
         "TextString": "BERTH 109",
         "Angle": 79.530456543,
+        "BerthManager": "Bluescope Steel",
+        "Commodities": "Dry Bulk and General Cargo",
         "ChannelMaintainedDepth": "15.2mCD",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.1m",
@@ -333,10 +335,8 @@
         "MooringEquipment": null,
         "TidalRange": "2m",
         "RailAccess": true,
-        "Commodities": "Dry Bulk and General Cargo",
         "UnloadingEquipment": false,
         "OperatingHours": "24/7",
-        "BerthManager": "Bluescope Steel",
         "PotableWaterAvailable": null,
         "AdditionalInformation": ["Potable water available."],
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -359,6 +359,8 @@
       "properties": {
         "TextString": "BERTH 104",
         "Angle": 92.735481262199997,
+        "BerthManager": "NSW Ports",
+        "Commodities": "Dry bulk, Bulk Liquids",
         "ChannelMaintainedDepth": "15.2mCD",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.1m",
@@ -375,10 +377,8 @@
         "MooringEquipment": null,
         "TidalRange": "2m",
         "RailAccess": true,
-        "Commodities": "Dry bulk, Bulk Liquids",
         "UnloadingEquipment": "2 No. Grain Shiploaders",
         "OperatingHours": "24/7",
-        "BerthManager": "NSW Ports",
         "PotableWaterAvailable": null,
         "AdditionalInformation": ["Potable water available."],
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -401,6 +401,8 @@
       "properties": {
         "TextString": "BERTH 113",
         "Angle": 318.54714965800002,
+        "BerthManager": "Bluescope Steel",
+        "Commodities": "Dry Bulk",
         "ChannelMaintainedDepth": "15.2m",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.1m",
@@ -417,10 +419,8 @@
         "MooringEquipment": null,
         "TidalRange": "2m",
         "RailAccess": true,
-        "Commodities": "Dry Bulk",
         "UnloadingEquipment": false,
         "OperatingHours": "24/7",
-        "BerthManager": "Bluescope Steel",
         "PotableWaterAvailable": null,
         "AdditionalInformation": ["Potable water available.", "Vessel bunkering by pipeline."],
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -435,6 +435,8 @@
       "properties": {
         "TextString": "BERTH 112",
         "Angle": 318.88409423799999,
+        "BerthManager": "Bluescope Steel",
+        "Commodities": "Dry Bulk",
         "ChannelMaintainedDepth": "15.2m",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.1m",
@@ -451,10 +453,8 @@
         "MooringEquipment": null,
         "TidalRange": "2m",
         "RailAccess": true,
-        "Commodities": "Dry Bulk",
         "UnloadingEquipment": false,
         "OperatingHours": "24/7",
-        "BerthManager": "Bluescope Steel",
         "PotableWaterAvailable": null,
         "AdditionalInformation": ["Potable water available.", "Vessel bunkering by pipeline."],
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -469,6 +469,8 @@
       "properties": {
         "TextString": "BERTH 111",
         "Angle": 318.88409423799999,
+        "BerthManager": "Bluescope Steel",
+        "Commodities": "Dry Bulk",
         "ChannelMaintainedDepth": "15.2m",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.1m",
@@ -485,10 +487,8 @@
         "MooringEquipment": null,
         "TidalRange": "2m",
         "RailAccess": true,
-        "Commodities": "Dry Bulk",
         "UnloadingEquipment": false,
         "OperatingHours": "24/7",
-        "BerthManager": "Bluescope Steel",
         "PotableWaterAvailable": null,
         "AdditionalInformation": ["Potable water available.", "Vessel bunkering by pipeline."],
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -503,6 +503,8 @@
       "properties": {
         "TextString": "BERTH 103",
         "Angle": 94.174896240199999,
+        "BerthManager": "AAT",
+        "Commodities": "Dry bulk, Bulk Liquids",
         "ChannelMaintainedDepth": "15.2mCD",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.1m",
@@ -519,10 +521,8 @@
         "MooringEquipment": null,
         "TidalRange": "2m",
         "RailAccess": false,
-        "Commodities": "Dry bulk, Bulk Liquids",
         "UnloadingEquipment": "Mobile Shore Cranes, Reach Stackers, Mobile Hoppers",
         "OperatingHours": "24/7",
-        "BerthManager": "AAT",
         "PotableWaterAvailable": null,
         "AdditionalInformation": ["Potable water available."],
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -537,6 +537,8 @@
       "properties": {
         "TextString": "BERTH 101",
         "Angle": 285.37805175800003,
+        "BerthManager": "Port Kembla Coal Terminal",
+        "Commodities": "Dry bulk",
         "ChannelMaintainedDepth": "15.2mCD",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.1m",
@@ -553,10 +555,8 @@
         "MooringEquipment": null,
         "TidalRange": "2m",
         "RailAccess": true,
-        "Commodities": "Dry bulk",
         "UnloadingEquipment": null,
         "OperatingHours": "24/7",
-        "BerthManager": "Port Kembla Coal Terminal",
         "PotableWaterAvailable": null,
         "AdditionalInformation": ["B101 is not in active case.", "Vessel bunkering by pipeline."],
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -571,6 +571,8 @@
       "properties": {
         "TextString": "BERTH 102",
         "Angle": 94.217468261700006,
+        "BerthManager": "Port Kembla Coal Terminal",
+        "Commodities": "Dry bulk",
         "ChannelMaintainedDepth": "15.2mCD",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.1m",
@@ -587,10 +589,8 @@
         "MooringEquipment": null,
         "TidalRange": "2m",
         "RailAccess": true,
-        "Commodities": "Dry bulk",
         "UnloadingEquipment": "2. No Rail Mounted Shiploaders",
         "OperatingHours": "24/7",
-        "BerthManager": "Port Kembla Coal Terminal",
         "PotableWaterAvailable": null,
         "AdditionalInformation": ["Vessel bunkering by pipeline."],
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"

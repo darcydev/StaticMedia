@@ -11,6 +11,8 @@
       "properties": {
         "TextString": "BD 10",
         "Angle": 22.194156646700002,
+        "BerthManager": "DP World Sydney",
+        "Commodities": "Containers",
         "ChannelMaintainedDepth": "15.6mCD",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.2m",
@@ -27,10 +29,8 @@
         "MooringEquipment": "60t Bollards",
         "TidalRange": "2m",
         "RailAccess": "On Dock Rail",
-        "Commodities": "Containers",
         "UnloadingEquipment": "8 No. STS Cranes",
         "OperatingHours": "24/7",
-        "BerthManager": "DP World Sydney",
         "PotableWaterAvailable": null,
         "AdditionalInformation": "1. Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -45,6 +45,8 @@
       "properties": {
         "TextString": "BD 12",
         "Angle": 22.194156646700002,
+        "BerthManager": "DP World Sydney",
+        "Commodities": "Containers",
         "ChannelMaintainedDepth": "15.6mCD",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.2m",
@@ -61,10 +63,8 @@
         "MooringEquipment": "60t Bollards",
         "TidalRange": "2m",
         "RailAccess": "On Dock Rail",
-        "Commodities": "Containers",
         "UnloadingEquipment": "8 No. STS Cranes",
         "OperatingHours": "24/7",
-        "BerthManager": "DP World Sydney",
         "PotableWaterAvailable": null,
         "AdditionalInformation": "1. Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -113,6 +113,8 @@
       "properties": {
         "TextString": "BD 9",
         "Angle": 17.6372509003,
+        "BerthManager": "Hutchinson Ports Sydney",
+        "Commodities": "Containers",
         "ChannelMaintainedDepth": "15.6mCD",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.2m",
@@ -129,10 +131,8 @@
         "MooringEquipment": "60t Bollards",
         "TidalRange": "2m",
         "RailAccess": "On Dock Rail",
-        "Commodities": "Containers",
         "UnloadingEquipment": "5 No. STS Cranes",
         "OperatingHours": "24/7",
-        "BerthManager": "Hutchinson Ports Sydney",
         "PotableWaterAvailable": null,
         "AdditionalInformation": "1. Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -147,6 +147,8 @@
       "properties": {
         "TextString": "BD 7",
         "Angle": 17.6372509003,
+        "BerthManager": "Hutchinson Ports Sydney",
+        "Commodities": "Containers",
         "ChannelMaintainedDepth": "15.6mCD",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.2m",
@@ -163,10 +165,8 @@
         "MooringEquipment": "60t Bollards",
         "TidalRange": "2m",
         "RailAccess": "On Dock Rail",
-        "Commodities": "Containers",
         "UnloadingEquipment": "5 No. STS Cranes",
         "OperatingHours": "24/7",
-        "BerthManager": "Hutchinson Ports Sydney",
         "PotableWaterAvailable": null,
         "AdditionalInformation": "1. Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -181,6 +181,8 @@
       "properties": {
         "TextString": "BD 8",
         "Angle": 17.6372509003,
+        "BerthManager": "Hutchinson Ports Sydney",
+        "Commodities": "Containers",
         "ChannelMaintainedDepth": "15.6mCD",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.2m",
@@ -197,10 +199,8 @@
         "MooringEquipment": "60t Bollards",
         "TidalRange": "2m",
         "RailAccess": "On Dock Rail",
-        "Commodities": "Containers",
         "UnloadingEquipment": "5 No. STS Cranes",
         "OperatingHours": "24/7",
-        "BerthManager": "Hutchinson Ports Sydney",
         "PotableWaterAvailable": null,
         "AdditionalInformation": "1. Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -215,6 +215,8 @@
       "properties": {
         "TextString": "BULK LIQUIDS BERTH No 1",
         "Angle": 79.379150390600003,
+        "BerthManager": "NSW Ports",
+        "Commodities": "Bulk liquids",
         "ChannelMaintainedDepth": "15.6mCD",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.2m",
@@ -231,10 +233,8 @@
         "MooringEquipment": "60t Bollards, 60t QRHs, 100t Bollards",
         "TidalRange": "2m",
         "RailAccess": false,
-        "Commodities": "Bulk liquids",
         "UnloadingEquipment": "5 No. Loading Arms, 9 No. Dock Lines",
         "OperatingHours": "24/7",
-        "BerthManager": "NSW Ports",
         "PotableWaterAvailable": null,
         "AdditionalInformation": [
           "Gangway can be prepared prior to berthing.",
@@ -253,6 +253,8 @@
       "properties": {
         "TextString": "BD 6",
         "Angle": 17.6372509003,
+        "BerthManager": "Patrick Terminals",
+        "Commodities": "Containers",
         "ChannelMaintainedDepth": "15.6mCD",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.2m",
@@ -269,10 +271,8 @@
         "MooringEquipment": "120t Bollards",
         "TidalRange": "2m",
         "RailAccess": "On Dock Rail",
-        "Commodities": "Containers",
         "UnloadingEquipment": "3 No. STS Cranes",
         "OperatingHours": "24/7",
-        "BerthManager": "Patrick Terminals",
         "PotableWaterAvailable": null,
         "AdditionalInformation": "1. Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -311,6 +311,8 @@
       "properties": {
         "TextString": "HD 2",
         "Angle": 283.21591186500001,
+        "BerthManager": "Hutchinson Ports Sydney",
+        "Commodities": "Containers",
         "ChannelMaintainedDepth": "15.6mCD",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.2m",
@@ -327,10 +329,8 @@
         "MooringEquipment": "120t Bollards",
         "TidalRange": "2m",
         "RailAccess": "On Dock Rail",
-        "Commodities": "Containers",
         "UnloadingEquipment": "4 No. STS Cranes",
         "OperatingHours": "24/7",
-        "BerthManager": "Hutchinson Ports Sydney",
         "PotableWaterAvailable": null,
         "AdditionalInformation": "1. Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -345,6 +345,8 @@
       "properties": {
         "TextString": "HD 1",
         "Angle": 283.21591186500001,
+        "BerthManager": "Hutchinson Ports Sydney",
+        "Commodities": "Containers",
         "ChannelMaintainedDepth": "15.6mCD",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.2m",
@@ -361,10 +363,8 @@
         "MooringEquipment": "120t Bollards",
         "TidalRange": "2m",
         "RailAccess": "On Dock Rail",
-        "Commodities": "Containers",
         "UnloadingEquipment": "4 No. STS Cranes",
         "OperatingHours": "24/7",
-        "BerthManager": "Hutchinson Ports Sydney",
         "PotableWaterAvailable": null,
         "AdditionalInformation": "1. Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
@@ -379,6 +379,8 @@
       "properties": {
         "TextString": "BULK LIQUIDS BERTH No 2",
         "Angle": 79.379150390600003,
+        "BerthManager": "NSW Ports",
+        "Commodities": "Bulk liquids",
         "ChannelMaintainedDepth": "15.6mCD",
         "DynamicUnderkeelClearanceSystemInUse": true,
         "StaticVesselDraftInChannel": "14.2m",
@@ -395,10 +397,8 @@
         "MooringEquipment": "100t Bollards, 125t QRHs",
         "TidalRange": "2m",
         "RailAccess": false,
-        "Commodities": "Bulk liquids",
         "UnloadingEquipment": "2 No. Loading Arms, 8 No. Dock Lines",
         "OperatingHours": "24/7",
-        "BerthManager": "NSW Ports",
         "PotableWaterAvailable": null,
         "AdditionalInformation": [
           "Gangway can be prepared prior to berthing.",
