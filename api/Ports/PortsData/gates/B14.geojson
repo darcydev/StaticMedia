@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "name": "PB_GATENO",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "GATE_NUM": "B14" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.225283714347825, -33.971344931892311]
+      }
+    }
+  ]
+}
