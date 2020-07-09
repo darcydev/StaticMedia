@@ -6,39 +6,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Dooen",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "1",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [142.267913, -36.630856] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Altona",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "2",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [144.791148, -37.845629] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Brighton Transport Hub",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "3",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [147.233257, -42.719874] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "Burnie Freight Hub",
         "description": null,
         "altitudeMode": "clampToGround",
@@ -83,17 +50,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Merbein",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "8",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [142.060409, -34.170097] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "Maryvale",
         "description": null,
         "altitudeMode": "clampToGround",
@@ -105,17 +61,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Esperance",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "10",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [121.8882, -33.85139] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "Picton",
         "description": null,
         "altitudeMode": "clampToGround",
@@ -123,50 +68,6 @@
         "Field Name": "Field Value"
       },
       "geometry": { "type": "Point", "coordinates": [115.680024, -33.357583] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "West Kalgoorlie",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "12",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [121.430911, -30.774893] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Fremantle",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "13",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [115.741957, -32.050369] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Kewdale-Welshpool",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "14",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [115.970501, -31.991748] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Forrestfield",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "15",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [115.989783, -31.968278] }
     },
     {
       "type": "Feature",
@@ -325,17 +226,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Townsville (Aurizon)",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "30",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [146.82015, -19.267599] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "Acacia Ridge",
         "description": null,
         "altitudeMode": "clampToGround",
@@ -343,17 +233,6 @@
         "Field Name": "Field Value"
       },
       "geometry": { "type": "Point", "coordinates": [153.030623, -27.576468] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Cairns (Pacific National)",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "32",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [145.748608, -16.959832] }
     },
     {
       "type": "Feature",
@@ -369,17 +248,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Cairns (Aurizon)",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "34",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [145.763254, -16.945874] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "Stuart (Pacific National)",
         "description": null,
         "altitudeMode": "clampToGround",
@@ -387,17 +255,6 @@
         "Field Name": "Field Value"
       },
       "geometry": { "type": "Point", "coordinates": [146.830071, -19.328629] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Brisbane Multimodal Terminal",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "36",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [153.176278, -27.373985] }
     },
     {
       "type": "Feature",
