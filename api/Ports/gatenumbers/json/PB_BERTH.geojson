@@ -210,8 +210,7 @@
         "TidalRange": "2m",
         "UnloadingEquipment": "5 No. Loading Arms, 9 No. Dock Lines",
         "OperatingHours": "24/7",
-        "AdditionalInformation": 
-          "1. Gangway can be prepared prior to berthing. 2. Potable water available. 3. Vessel bunkering by pipeline.",
+        "AdditionalInformation": "1. Gangway can be prepared prior to berthing. 2. Potable water available. 3. Vessel bunkering by pipeline.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
       },
       "geometry": {
