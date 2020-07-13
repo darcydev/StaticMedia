@@ -46,39 +46,6 @@
         "Field Name": "Field Value"
       },
       "geometry": { "type": "Point", "coordinates": [150.841694, -34.035167] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Rockhampton (Pacific National)",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "26",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [150.5046, -23.406029] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Mackay (Aurizon)",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "28",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [149.158683, -21.168945] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Stuart (Pacific National)",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "35",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [146.830071, -19.328629] }
     }
   ]
 }
