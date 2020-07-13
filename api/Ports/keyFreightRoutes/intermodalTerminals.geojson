@@ -6,138 +6,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Burnie Freight Hub",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "4",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [145.908024, -41.053693] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Somerton",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "5",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [144.942543, -37.640394] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Dynon",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "6",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [144.922271, -37.805238] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Donald",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "7",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [142.972259, -36.352811] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Maryvale",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "9",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [146.445927, -38.189208] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Picton",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "11",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [115.680024, -33.357583] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Kwinana",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "16",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [115.782976, -32.23618] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Warrnambool",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "17",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [142.45801, -38.372177] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Islington",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "18",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [138.577658, -34.866183] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Penfield",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "19",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [138.590756, -34.6951] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Gillman",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "20",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [138.517242, -34.830136] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Bowmans",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "21",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [138.273256, -34.167519] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "Chullora",
         "description": null,
         "altitudeMode": "clampToGround",
@@ -193,17 +61,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Rockhampton (Aurizon)",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "27",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [150.517232, -23.388448] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "Mackay (Aurizon)",
         "description": null,
         "altitudeMode": "clampToGround",
@@ -215,39 +72,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Mackay (Pacific National)",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "29",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [149.159541, -21.176969] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Acacia Ridge",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "31",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [153.030623, -27.576468] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Mt Miller (Aurizon)",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "33",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [151.163227, -23.850434] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "Stuart (Pacific National)",
         "description": null,
         "altitudeMode": "clampToGround",
@@ -255,28 +79,6 @@
         "Field Name": "Field Value"
       },
       "geometry": { "type": "Point", "coordinates": [146.830071, -19.328629] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Moolabin",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "37",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [153.001464, -27.527924] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Emerald",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "38",
-        "Field Name": "Field Value"
-      },
-      "geometry": { "type": "Point", "coordinates": [148.162928, -23.528546] }
     }
   ]
 }
