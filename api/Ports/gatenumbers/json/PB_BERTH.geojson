@@ -71,6 +71,8 @@
       "properties": {
         "TextString": "BD 11",
         "Angle": 22.194156646700002,
+        "BerthManager": "DP World Sydney",
+        "Commodities": "Containers",
         "ChannelMaintainedDepth": "15.6mCD",
         "DynamicUnderkeelClearanceSystemInUse": "Yes",
         "StaticVesselDraftInChannel": "14.2m",
@@ -84,10 +86,8 @@
         "MooringEquipment": "60t Bollards",
         "TidalRange": "2m",
         "RailAccess": "On Dock Rail",
-        "Commodities": "Containers",
         "UnloadingEquipment": "8 No. STS Cranes",
         "OperatingHours": "24/7",
-        "BerthManager": "DP World Sydney",
         "AdditionalInformation": "1. Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
       },
@@ -101,7 +101,7 @@
       "properties": {
         "TextString": "BD 9",
         "Angle": 17.6372509003,
-        "BerthManager": "Hutchinson Ports Sydney",
+        "BerthManager": "Patrick Terminals",
         "Commodities": "Containers",
         "ChannelMaintainedDepth": "15.6mCD",
         "DynamicUnderkeelClearanceSystemInUse": "Yes",
@@ -131,7 +131,7 @@
       "properties": {
         "TextString": "BD 7",
         "Angle": 17.6372509003,
-        "BerthManager": "Hutchinson Ports Sydney",
+        "BerthManager": "Patrick Terminals",
         "Commodities": "Containers",
         "ChannelMaintainedDepth": "15.6mCD",
         "DynamicUnderkeelClearanceSystemInUse": "Yes",
@@ -161,7 +161,7 @@
       "properties": {
         "TextString": "BD 8",
         "Angle": 17.6372509003,
-        "BerthManager": "Hutchinson Ports Sydney",
+        "BerthManager": "Patrick Terminals",
         "Commodities": "Containers",
         "ChannelMaintainedDepth": "15.6mCD",
         "DynamicUnderkeelClearanceSystemInUse": "Yes",
@@ -209,6 +209,7 @@
         "MooringEquipment": "60t Bollards, 60t QRHs, 100t Bollards",
         "TidalRange": "2m",
         "UnloadingEquipment": "5 No. Loading Arms, 9 No. Dock Lines",
+        "RailAcess": "No",
         "OperatingHours": "24/7",
         "AdditionalInformation": "1. Gangway can be prepared prior to berthing. 2. Potable water available. 3. Vessel bunkering by pipeline.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
