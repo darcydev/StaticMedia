@@ -308,9 +308,9 @@
       "properties": {
         "TextString": "HD 1",
         "Angle": 283.21591186500001,
-        "Berth Manager": "Hutchinson Ports Sydney",
+        "BerthManager": "Hutchinson Ports Sydney",
         "Commodities": "Containers",
-        "Channel Maintained Depth": "15.6mCD",
+        "ChannelMaintainedDepth": "15.6mCD",
         "DynamicUnderkeelClearanceSystemInUse": "Yes",
         "StaticVesselDraftInChannel": "14.2m",
         "UKCRequirementsAtBerth": "0.5m",
