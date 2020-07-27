@@ -354,7 +354,7 @@
         "UKCRequirementsAtBerth": "1.0m",
         "DeclaredDepthAtBerth": "Refer to PANSW promulgated depths for current declared depths",
         "IndicativeVesselDraftAtBerth": "18.0m",
-        "MaxVesselLength": "270m",
+        "Testing": "270m",
         "BerthBoxLength": "n/a",
         "BerthBoxWidth": "55m",
         "WharfLevel": "+4.5mCD",
