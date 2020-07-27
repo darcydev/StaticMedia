@@ -299,7 +299,7 @@
         "Angle": 92.735481262199997,
         "BerthManager": "NSW Ports",
         "Commodities": "Dry bulk, Bulk Liquids",
-        "ChannelMaintainedDepth": "15.2mCD",
+        "ChannelMaintainedDepth": "15.2m",
         "DynamicUnderkeelClearanceSystemInUse": "Yes",
         "StaticVesselDraftInChannel": "14.1m",
         "UKCRequirementsAtBerth": "0.3m",
