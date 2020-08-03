@@ -138,7 +138,7 @@
         "Tidal Range (LAT - HAT)": "2m",
         "Unloading Equipment": "1. No. Dock Line",
         "Operating Hours": "24/7",
-        "Additional Information": "Potable water available. Vessel bunkering by pipeline.",
+        "Additional Information": "1. Potable water available. 2. Vessel bunkering by pipeline.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
       },
       "geometry": {
@@ -193,7 +193,7 @@
         "Rail Access (LAT - HAT)": "On Dock Rail",
         "Unloading Equipment": "3 No. 140t Mobile Cranes",
         "Operating Hours": "24/7",
-        "Additional Information": "Potable water available.",
+        "Additional Information": "1. Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
       },
       "geometry": {
@@ -208,7 +208,6 @@
         "Angle": 342.91458129900002,
         "Berth Manager": "AAT",
         "Commodities": "General Cargo, Automobile, Dry Bulk",
-        "Rail Access": "On Dock Rail",
         "Channel Maintained Depth": "15.2m",
         "Dynamic Underkeel Clearance System in Use": "Yes",
         "Static Vessel Draft in Channel @ LAT": "14.1m",
@@ -218,10 +217,11 @@
         "Berth Box Length": "490m",
         "Berth Box Width": "50m",
         "Air Draft Limit": "n/a",
-        "Tidal Range (LAT - HAT)": "2m",
+        "Tidal Range": "2m",
+        "Rail Access (LAT - HAT)": "On Dock Rail",
         "Unloading Equipment": "3 No. 140t Mobile Cranes",
         "Operating Hours": "24/7",
-        "Additional Information": "Potable water available.",
+        "Additional Information": "1. Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
       },
       "geometry": {
@@ -298,7 +298,7 @@
         "TextString": "Berth 104",
         "Angle": 92.735481262199997,
         "Berth Manager": "NSW Ports",
-        "Commodities": "Dry bulk, Bulk Liquids",
+        "Commodities": "Dry Bulk, Bulk Liquids",
         "Rail Access": "Yes",
         "Channel Maintained Depth": "15.2m",
         "Dynamic Underkeel Clearance System in Use": "Yes",
@@ -429,7 +429,7 @@
         "Tidal Range (LAT - HAT)": "2m",
         "Unloading Equipment": "Mobile Shore Cranes, Reach Stackers, Mobile Hoppers",
         "Operating Hours": "24/7",
-        "Additional Information": "Potable water available.",
+        "Additional Information": "1. Potable water available.",
         "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
       },
       "geometry": {

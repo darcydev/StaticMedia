@@ -10,7 +10,12 @@
       "type": "Feature",
       "properties": {
         "LEASE": "Maritime Container Services Pty Limited (t721)",
-        "LEASE_TYPE": "Industrial - Net"
+        "Tenant Name": null,
+        "Phone": null,
+        "Website": null,
+        "Email": null,
+        "Address": null,
+        "Gates Included": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -157,7 +162,12 @@
       "type": "Feature",
       "properties": {
         "LEASE": "Maritime Container Services Pty Limited (t720)",
-        "LEASE_TYPE": "Rail - Net"
+        "Tenant Name": null,
+        "Phone": null,
+        "Website": null,
+        "Email": null,
+        "Address": null,
+        "Gates Included": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -215,7 +225,12 @@
       "type": "Feature",
       "properties": {
         "LEASE": "Linx Enfield Intermodal Pty Ltd  (t850)",
-        "LEASE_TYPE": "Industrial - Net"
+        "Tenant Name": null,
+        "Phone": null,
+        "Website": null,
+        "Email": null,
+        "Address": null,
+        "Gates Included": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10456,7 +10471,10 @@
       "type": "Feature",
       "properties": {
         "LEASE": "Australian Port Services (NSW) Pty Ltd (t680)",
-        "LEASE_TYPE": "Berth - Gross"
+        "Tenant Name": null,
+        "Phone": null,
+        "Website": null,
+        "Email": null
       },
       "geometry": {
         "type": "MultiPolygon",
