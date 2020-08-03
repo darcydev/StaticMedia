@@ -329,7 +329,7 @@
         "Berth Box Length": "650m",
         "Berth Box Width": "50m",
         "Wharf Level": "+4.0mCD",
-        "Air Draft Level": "+51.9mCD",
+        "Air Draft Limit": "+51.9mCD",
         "Mooring Equipment": "120t Bollards",
         "Tidal Range (LAT - HAT)": "2m",
         "Unloading Equipment": "4 No. STS Cranes",
