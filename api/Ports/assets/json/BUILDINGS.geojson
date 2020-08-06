@@ -9,7 +9,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Asset Name": "Breakwater Battery Military Museum"
+        "Asset Name": "Breakwater Battery Military Museum",
+        "Address": "Gate B103 Penrhyn Rd, Port Botany NSW 2036",
+        "Phone": "(02) 4275 2888"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +21,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Asset Name": "Maritime Centre (NSW Ports Office)"
+        "Asset Name": "Maritime Centre (NSW Ports Office)",
+        "Address": "Level 3/91 Foreshore Rd, Port Kembla NSW 2505",
+        "Phone": "1300 922 524"
       },
       "geometry": {
         "type": "Point",
@@ -29,7 +33,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Asset Name": "Training & Conference Centre"
+        "Asset Name": "Training & Conference Centre",
+        "Address": "Foreshore Rd, Port Kembla NSW 2505",
+        "Phone": "1300 922 524"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +45,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Asset Name": "Brotherson House (NSW Ports Office)"
+        "Asset Name": "Brotherson House (NSW Ports Office)",
+        "Address": null,
+        "Phone": "1300 922 524"
       },
       "geometry": {
         "type": "Point",
@@ -49,7 +57,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Asset Name": "BLB1 Administration Building"
+        "Asset Name": "BLB1 Administration Building",
+        "Address": "Fishburn Rd & Charlotte Rd, Port Botany NSW 2036",
+        "Phone": "(02) 9316 1137"
       },
       "geometry": {
         "type": "Point",
@@ -59,7 +69,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Asset Name": "Cooks River Administrative Building"
+        "Asset Name": "Cooks River Administrative Building",
+        "Address": null,
+        "Phone": null
       },
       "geometry": {
         "type": "Point",
@@ -69,7 +81,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Asset Name": "Enfield Admin Building (NSW Ports Office)"
+        "Asset Name": "Enfield Admin Building (NSW Ports Office)",
+        "Address": "Delec Lane, Strathfield South NSW 2136",
+        "Phone": null
       },
       "geometry": {
         "type": "Point",
@@ -79,7 +93,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Asset Name": "Precinct D Warehouse"
+        "Asset Name": "Precinct D Warehouse",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +105,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Asset Name": "Tarpaulin Shed (Heritage)"
+        "Asset Name": "Tarpaulin Shed (Heritage)",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
       },
       "geometry": {
         "type": "Point",
@@ -99,7 +117,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Asset Name": "Warehouse C1"
+        "Asset Name": "Warehouse C1",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
       },
       "geometry": {
         "type": "Point",
@@ -109,7 +129,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Asset Name": "Warehouse C2"
+        "Asset Name": "Warehouse C2",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
       },
       "geometry": {
         "type": "Point",
@@ -119,7 +141,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Asset Name": "Warehouse F1"
+        "Asset Name": "Warehouse F1",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
       },
       "geometry": {
         "type": "Point",
@@ -129,7 +153,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Asset Name": "Warehouse F2"
+        "Asset Name": "Warehouse F2",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
       },
       "geometry": {
         "type": "Point",
@@ -139,7 +165,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Asset Name": "Warehouse F3"
+        "Asset Name": "Warehouse F3",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
       },
       "geometry": {
         "type": "Point",
@@ -149,7 +177,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Asset Name": "Warehouse H1"
+        "Asset Name": "Warehouse H1",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +189,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Asset Name": "Warehouse H2"
+        "Asset Name": "Warehouse H2",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
       },
       "geometry": {
         "type": "Point",
@@ -169,7 +201,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Asset Name": "Warehouse H3"
+        "Asset Name": "Warehouse H3",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
       },
       "geometry": {
         "type": "Point",
@@ -179,7 +213,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Asset Name": "Warehouse E1"
+        "Asset Name": "Warehouse E1",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
       },
       "geometry": {
         "type": "Point",
@@ -189,7 +225,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Asset Name": "Warehouse E2"
+        "Asset Name": "Warehouse E2",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
       },
       "geometry": {
         "type": "Point",
