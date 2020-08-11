@@ -46,7 +46,7 @@
       "type": "Feature",
       "properties": {
         "Asset Name": "Brotherson House (NSW Ports Office)",
-        "Address": null,
+        "Address": "Gate B103 Penrhyn Rd, Port Botany NSW 2036",
         "Phone": "1300 922 524"
       },
       "geometry": {
@@ -83,7 +83,7 @@
       "properties": {
         "Asset Name": "Enfield Admin Building (NSW Ports Office)",
         "Address": "Delec Lane, Strathfield South NSW 2136",
-        "Phone": null
+        "Phone": "1300 922 524"
       },
       "geometry": {
         "type": "Point",
