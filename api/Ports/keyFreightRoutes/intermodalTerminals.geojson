@@ -6,46 +6,37 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Chullora",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "22",
-        "Field Name": "Field Value"
+        "Name": "Chullora Intermodal Terminal"
       },
       "geometry": { "type": "Point", "coordinates": [151.044222, -33.888139] }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "Enfield",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "23",
-        "Field Name": "Field Value"
+        "Name": "Enfield"
       },
       "geometry": { "type": "Point", "coordinates": [151.073501, -33.896518] }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "Yennora",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "24",
-        "Field Name": "Field Value"
+        "Name": "Yennora Intermodal Terminal"
       },
       "geometry": { "type": "Point", "coordinates": [150.966667, -33.859722] }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "Macarthur Intermodal Shipping Terminal",
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "OBJECTID": "25",
-        "Field Name": "Field Value"
+        "Name": "Macarthur Intermodal Shipping Terminal"
       },
       "geometry": { "type": "Point", "coordinates": [150.841694, -34.035167] }
+		}
+		{
+      "type": "Feature",
+      "properties": {
+        "Name": "Minto Intermodal Terminal"
+      },
+      "geometry": { "type": "Point", "coordinates": [150.840730, -34.035496] }
     }
   ]
 }
