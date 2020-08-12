@@ -30,13 +30,13 @@
         "Name": "Macarthur Intermodal Shipping Terminal"
       },
       "geometry": { "type": "Point", "coordinates": [150.841694, -34.035167] }
-		}
-		{
+    },
+    {
       "type": "Feature",
       "properties": {
         "Name": "Minto Intermodal Terminal"
       },
-      "geometry": { "type": "Point", "coordinates": [150.840730, -34.035496] }
+      "geometry": { "type": "Point", "coordinates": [150.84073, -34.035496] }
     }
   ]
 }
