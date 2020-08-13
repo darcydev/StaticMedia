@@ -13,13 +13,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Enfield"
-      },
-      "geometry": { "type": "Point", "coordinates": [151.073501, -33.896518] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "Yennora Intermodal Terminal"
       },
       "geometry": { "type": "Point", "coordinates": [150.966667, -33.859722] }
@@ -37,6 +30,13 @@
         "Name": "Minto Intermodal Terminal"
       },
       "geometry": { "type": "Point", "coordinates": [150.84073, -34.035496] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Moorebank Intermodal Terminal"
+      },
+      "geometry": { "type": "Point", "coordinates": [150.917501, -33.955222] }
     }
   ]
 }
