@@ -5,7 +5,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": { "fid": 1, "Asset name": "Port Kembla Inner Harbour" },
+      "properties": { "fid": 1, "Asset name": "Port Kembla Outer Harbour" },
       "geometry": { "type": "Point", "coordinates": [150.906817, -34.468779] }
     }
   ]
