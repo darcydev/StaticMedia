@@ -37,6 +37,20 @@
         "Name": "Moorebank Intermodal Terminal"
       },
       "geometry": { "type": "Point", "coordinates": [150.917501, -33.955222] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Future St Mary's Intermodal Terminal"
+      },
+      "geometry": { "type": "Point", "coordinates": [150.769855, -33.757677] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Future Western Sydney Intermodal Terminal"
+      },
+      "geometry": { "type": "Point", "coordinates": [150.78199, -33.828997] }
     }
   ]
 }
