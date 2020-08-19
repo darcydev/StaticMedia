@@ -6,7 +6,6 @@
     {
       "type": "Feature",
       "properties": {
-        "fid": 1,
         "Asset name": "Brotherson House visitor parking (limited)",
         "Address": "Gate B103 Penrhyn Rd, Port Botany NSW 2036"
       },
@@ -15,7 +14,6 @@
     {
       "type": "Feature",
       "properties": {
-        "fid": 2,
         "Asset name": "Gate B103 staff car park",
         "Address": "Gate B103 Penrhyn Rd, Port Botany NSW 2036"
       },
@@ -24,16 +22,22 @@
     {
       "type": "Feature",
       "properties": {
-        "fid": 3,
         "Asset name": "BLB1 car park",
-        "Address": "Fishburn Rd & Charlotte Rd, Port Botany NSW 2036"
+        "Address": "Charlotte Rd, Port Botany NSW 2036"
       },
       "geometry": { "type": "Point", "coordinates": [151.21279891705646, -33.974383201053676] }
     },
     {
       "type": "Feature",
       "properties": {
-        "fid": 4,
+        "Asset name": "BLB2 car park",
+        "Address": "Fishburn Rd, Port Botany NSW 2036"
+      },
+      "geometry": { "type": "Point", "coordinates": [151.21279891705646, -33.974383201053676] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Asset name": "Prince of Wales Drive car park",
         "Address": "Prince of Wales Drive, Port Botany NSW 2036"
       },
@@ -42,7 +46,6 @@
     {
       "type": "Feature",
       "properties": {
-        "fid": 5,
         "Asset name": "Molineux Pt car park",
         "Address": "Prince of Wales Drive, Port Botany NSW 2036"
       },
@@ -51,8 +54,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fid": 6,
-        "Asset name": "Maritime Centre car park",
+        "Asset name": "Maritime Centre staff car park",
         "Address": "Maritime Centre, Foreshore Rd, Port Kembla NSW 2505"
       },
       "geometry": { "type": "Point", "coordinates": [150.912890896020741, -34.475092852179664] }
@@ -60,8 +62,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fid": 7,
-        "Asset name": "Seawall Road car park",
+        "Asset name": "Seawall Road car park (currently closed)",
         "Address": "Seawall Road, Port Kembla NSW 2505"
       },
       "geometry": { "type": "Point", "coordinates": [150.90150576131623, -34.461555962495801] }
@@ -69,8 +70,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fid": 8,
-        "Asset name": "Roads and Maritime Services (RMS) car park",
+        "Asset name": "Roads and Maritime Services car park (RMS)",
         "Address": "Maritime Centre, Foreshore Rd, Port Kembla NSW 2505"
       },
       "geometry": { "type": "Point", "coordinates": [150.912413580006842, -34.475203132626987] }
@@ -78,7 +78,6 @@
     {
       "type": "Feature",
       "properties": {
-        "fid": 9,
         "Asset name": "NSW Ports Enfield ILC office car park",
         "Address": "Delec Lane, Strathfield South NSW 2136"
       },
