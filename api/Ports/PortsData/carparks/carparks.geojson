@@ -33,7 +33,7 @@
         "Asset name": "BLB2 car park",
         "Address": "Fishburn Rd, Port Botany NSW 2036"
       },
-      "geometry": { "type": "Point", "coordinates": [151.21279891705646, -33.974383201053676] }
+      "geometry": { "type": "Point", "coordinates": [151.21279891705656, -33.974383201053686] }
     },
     {
       "type": "Feature",
