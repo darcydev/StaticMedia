@@ -69,6 +69,18 @@
     {
       "type": "Feature",
       "properties": {
+        "Asset Name": "BLB2 Amenities Building",
+        "Address": "Fishburn Rd & Charlotte Rd, Port Botany NSW 2036",
+        "Phone": "(02) 9316 1139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.21174397921678, -33.9770055412247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Asset Name": "Cooks River Administrative Building",
         "Address": null,
         "Phone": null
@@ -81,7 +93,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Asset Name": "Enfield Admin Building (NSW Ports Office)",
+        "Asset Name": "Enfield ILC Site Office (NSW Ports Office)",
         "Address": "Delec Lane, Strathfield South NSW 2136",
         "Phone": "1300 922 524"
       },
